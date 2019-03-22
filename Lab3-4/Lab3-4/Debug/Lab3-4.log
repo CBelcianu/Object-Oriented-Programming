@@ -1,0 +1,81 @@
+﻿  appStart.c
+  controller.c
+c:\users\catalin\desktop\#work\#oop\lab3-4\lab3-4\controller.c(135): warning C4133: 'function': incompatible types - from 'char *' to 'Country *'
+c:\users\catalin\desktop\#work\#oop\lab3-4\lab3-4\controller.c(135): warning C4020: 'removeCountry': too many actual parameters
+c:\users\catalin\desktop\#work\#oop\lab3-4\lab3-4\controller.c(134): warning C4101: 'name': unreferenced local variable
+  repository.c
+  UI.c
+c:\users\catalin\desktop\#work\#oop\lab3-4\lab3-4\ui.c(86): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+c:\users\catalin\desktop\#work\#oop\lab3-4\lab3-4\ui.c(88): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(2261): note: see declaration of 'sscanf'
+c:\users\catalin\desktop\#work\#oop\lab3-4\lab3-4\ui.c(108): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+c:\users\catalin\desktop\#work\#oop\lab3-4\lab3-4\ui.c(112): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+c:\users\catalin\desktop\#work\#oop\lab3-4\lab3-4\ui.c(120): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+c:\users\catalin\desktop\#work\#oop\lab3-4\lab3-4\ui.c(139): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+c:\users\catalin\desktop\#work\#oop\lab3-4\lab3-4\ui.c(141): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+c:\users\catalin\desktop\#work\#oop\lab3-4\lab3-4\ui.c(143): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+c:\users\catalin\desktop\#work\#oop\lab3-4\lab3-4\ui.c(159): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+c:\users\catalin\desktop\#work\#oop\lab3-4\lab3-4\ui.c(161): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+c:\users\catalin\desktop\#work\#oop\lab3-4\lab3-4\ui.c(163): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+c:\users\catalin\desktop\#work\#oop\lab3-4\lab3-4\ui.c(166): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+c:\users\catalin\desktop\#work\#oop\lab3-4\lab3-4\ui.c(168): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+c:\users\catalin\desktop\#work\#oop\lab3-4\lab3-4\ui.c(187): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+c:\users\catalin\desktop\#work\#oop\lab3-4\lab3-4\ui.c(189): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+c:\users\catalin\desktop\#work\#oop\lab3-4\lab3-4\ui.c(191): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+c:\users\catalin\desktop\#work\#oop\lab3-4\lab3-4\ui.c(197): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+c:\users\catalin\desktop\#work\#oop\lab3-4\lab3-4\ui.c(201): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+c:\users\catalin\desktop\#work\#oop\lab3-4\lab3-4\ui.c(202): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+c:\users\catalin\desktop\#work\#oop\lab3-4\lab3-4\ui.c(207): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+c:\users\catalin\desktop\#work\#oop\lab3-4\lab3-4\ui.c(209): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+c:\users\catalin\desktop\#work\#oop\lab3-4\lab3-4\ui.c(211): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+c:\users\catalin\desktop\#work\#oop\lab3-4\lab3-4\ui.c(213): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+c:\users\catalin\desktop\#work\#oop\lab3-4\lab3-4\ui.c(214): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+c:\users\catalin\desktop\#work\#oop\lab3-4\lab3-4\ui.c(267): warning C4047: 'function': 'char *' differs in levels of indirection from 'char *[50]'
+c:\users\catalin\desktop\#work\#oop\lab3-4\lab3-4\ui.c(267): warning C4024: 'strcpy': different types for formal and actual parameter 1
+c:\users\catalin\desktop\#work\#oop\lab3-4\lab3-4\ui.c(268): warning C4047: 'function': 'char *' differs in levels of indirection from 'char *[50]'
+c:\users\catalin\desktop\#work\#oop\lab3-4\lab3-4\ui.c(268): warning C4024: 'append': different types for formal and actual parameter 1
+c:\users\catalin\desktop\#work\#oop\lab3-4\lab3-4\ui.c(272): warning C4047: 'function': 'char *' differs in levels of indirection from 'char *[50]'
+c:\users\catalin\desktop\#work\#oop\lab3-4\lab3-4\ui.c(272): warning C4024: 'append': different types for formal and actual parameter 1
+c:\users\catalin\desktop\#work\#oop\lab3-4\lab3-4\ui.c(287): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char *[50]'
+c:\users\catalin\desktop\#work\#oop\lab3-4\lab3-4\ui.c(287): warning C4024: 'strstr': different types for formal and actual parameter 2
+c:\users\catalin\desktop\#work\#oop\lab3-4\lab3-4\ui.c(267): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+c:\users\catalin\desktop\#work\#oop\lab3-4\lab3-4\ui.c(241): warning C4101: 'ss': unreferenced local variable
+c:\users\catalin\desktop\#work\#oop\lab3-4\lab3-4\ui.c(241): warning C4101: 'ch1': unreferenced local variable
+c:\users\catalin\desktop\#work\#oop\lab3-4\lab3-4\ui.c(335): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\catalin\desktop\#work\#oop\lab3-4\lab3-4\ui.c(306): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+c:\users\catalin\desktop\#work\#oop\lab3-4\lab3-4\ui.c(330): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+c:\users\catalin\desktop\#work\#oop\lab3-4\lab3-4\ui.c(395): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\catalin\desktop\#work\#oop\lab3-4\lab3-4\ui.c(359): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+c:\users\catalin\desktop\#work\#oop\lab3-4\lab3-4\ui.c(367): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+c:\users\catalin\desktop\#work\#oop\lab3-4\lab3-4\ui.c(390): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+  Generating Code...
+  Lab3-4.vcxproj -> C:\Users\Catalin\Desktop\#WORK\#OOP\Lab3-4\Debug\Lab3-4.exe

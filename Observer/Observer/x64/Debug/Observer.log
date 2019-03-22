@@ -1,0 +1,9 @@
+﻿  Moc'ing Observer.h...
+  Rcc'ing Observer.qrc...
+  Uic'ing Observer.ui...
+  RCC: Warning: No resources in 'C:\Users\Catalin\Desktop\#WORK\#OOP\Observer\Observer\Observer.qrc'.
+  main.cpp
+  Observer.cpp
+  moc_Observer.cpp
+  qrc_Observer.cpp
+  Observer.vcxproj -> C:\Users\Catalin\Desktop\#WORK\#OOP\Observer\x64\Debug\Observer.exe

@@ -1,0 +1,10 @@
+Max,German Shepherd,4,https://www.fetchpetcare.com/wp-content/uploads/2017/09/img_2562.jpg
+Gohan,Siberian Husky,2,http://cdn.shopify.com/s/files/1/0994/0236/files/siberian-husky_4217efb5-9130-4bdc-aa80-b274821bd05d_large.jpg?v=1518819764
+Haru,Shiba Inu,1,https://dogbreedatlas.com/images/dog-breed-photos/shiba-inu/001/shiba-inu-1495052587-1.jpg
+Hiro,Shiba Inu,2,http://www.pawculture.com/uploads/shiba-inu-large-shutterstock-518591449-copy.jpg
+Doge,Shiba Inu,1,https://www.redduckpost.com/wp-content/uploads/2016/08/c09-885x664.jpg
+Ren,Shiba Inu,3,https://s3.amazonaws.com/media.ohi/16762_download_6f.jpeg
+Zeus,German Shepherd,3,http://www.insidedogsworld.com/wp-content/uploads/2017/07/German-Shepherd-Standard-Coat-GSC-1000x575-1-1-1-1.jpg
+Boots,German Shepherd,1,https://www.dogmal.com/wp-content/uploads/2017/10/Smart_german_shepherd_puppy_hd_photo.jpg
+Blaze,Siberian Husky,2,https://d2kwjcq8j5htsz.cloudfront.net/1970/01/16111515/siberian-husky-woods-shutterstock_558432511.jpg
+Finn,Siberian Husky,2,https://thumbs.dreamstime.com/b/purebred-white-siberian-husky-lying-lawn-51723166.jpg

@@ -1,0 +1,16 @@
+﻿  Main.c
+c:\users\catalin\desktop\#work\#oop\lab2\lab2\main.c(34): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+c:\users\catalin\desktop\#work\#oop\lab2\lab2\main.c(37): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+c:\users\catalin\desktop\#work\#oop\lab2\lab2\main.c(62): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+c:\users\catalin\desktop\#work\#oop\lab2\lab2\main.c(65): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+c:\users\catalin\desktop\#work\#oop\lab2\lab2\main.c(96): warning C4047: 'function': 'int *' differs in levels of indirection from 'int (*)[100]'
+c:\users\catalin\desktop\#work\#oop\lab2\lab2\main.c(96): warning C4024: 'readVector': different types for formal and actual parameter 1
+c:\users\catalin\desktop\#work\#oop\lab2\lab2\main.c(81): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+c:\users\catalin\desktop\#work\#oop\lab2\lab2\main.c(123): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+  Lab2.vcxproj -> C:\Users\Catalin\Desktop\#WORK\#OOP\Lab2\Debug\Lab2.exe
