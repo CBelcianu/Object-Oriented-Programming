@@ -1,0 +1,3 @@
+Marcel,0,10
+Ion,2,3
+Maria,1,9

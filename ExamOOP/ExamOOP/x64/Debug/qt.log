@@ -1,0 +1,3 @@
+ExamOOP.h|"C:\Users\Catalin\Desktop\#WORK\#OOP\ExamOOP\ExamOOP\ExamOOP.h" -o ".\GeneratedFiles\Debug\moc_ExamOOP.cpp" "-I.\GeneratedFiles" "-I." "-IC:\Qt\5.10.1\msvc2015_64\include" "-I.\GeneratedFiles\Debug" "-IC:\Qt\5.10.1\msvc2015_64\include\QtCore" "-IC:\Qt\5.10.1\msvc2015_64\include\QtGui" "-IC:\Qt\5.10.1\msvc2015_64\include\QtANGLE" "-IC:\Qt\5.10.1\msvc2015_64\include\QtWidgets" -DUNICODE -D_UNICODE -DWIN32 -DWIN64 -DQT_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB
+ExamOOP.qrc|"C:\Users\Catalin\Desktop\#WORK\#OOP\ExamOOP\ExamOOP\ExamOOP.qrc" -o ".\GeneratedFiles\qrc_ExamOOP.cpp" --name ExamOOP
+ExamOOP.ui|"C:\Users\Catalin\Desktop\#WORK\#OOP\ExamOOP\ExamOOP\ExamOOP.ui" -o ".\GeneratedFiles\ui_ExamOOP.h"
